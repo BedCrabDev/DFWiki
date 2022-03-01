@@ -1,7 +1,15 @@
+---
+title: Home
+---
+
 # Welcome to the DF Wiki!
 
-A project by AstroSquared
+This wiki is still WIP, and verry broken.
 
-## Pages Directory
+## Navigate
 
-test
+To navigate, click the buttons on top.
+
+## GitHub
+
+Check out the repo and contribute at https://github.com/BedCrabDev/DFWiki.
