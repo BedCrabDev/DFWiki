@@ -10,6 +10,12 @@ This wiki is still WIP, and verry broken.
 
 To navigate, click the buttons on top.
 
+Spawn: All the things that are at spawn, such as Gadgets and Nodes.
+
+Dev Mode: Everything related to coding on DF, such as Code Blocks.
+
+Other: Everything that isn't above, such as Ranks.
+
 ## GitHub
 
 Check out the repo and contribute [here](https://github.com/BedCrabDev/DFWiki).
