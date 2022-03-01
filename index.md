@@ -12,4 +12,4 @@ To navigate, click the buttons on top.
 
 ## GitHub
 
-Check out the repo and contribute at https://github.com/BedCrabDev/DFWiki.
+Check out the repo and contribute [here](https://github.com/BedCrabDev/DFWiki).
