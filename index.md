@@ -4,7 +4,7 @@ title: Home
 
 # Welcome to the DF Wiki!
 
-This wiki is still WIP, and verry broken.
+This wiki is still WIP, and might be broken.
 
 ## Navigate
 
@@ -15,6 +15,8 @@ Spawn: All the things that are at spawn, such as Gadgets and Nodes.
 Dev Mode: Everything related to coding on DF, such as Code Blocks.
 
 Other: Everything that isn't above, such as Ranks.
+
+About & Contribute: Wiki info
 
 ## GitHub
 

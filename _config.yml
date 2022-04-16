@@ -3,6 +3,7 @@ exclude:
 - .github
 - Gemfile
 - Gemfile.lock
+- README.md
 defaults:
   -
     scope:
