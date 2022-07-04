@@ -9,4 +9,7 @@ Everything related to DF Spawn is here.
 
 ## Pages
 
-* none yet
+* [Nodes](/spawn/nodes)
+* [Game Menu & My Plots](/spawn/game-menu)
+* [Shop](/spawn/shop) WIP
+* [Cosmetics](/spawn/cosmetics) WIP
